@@ -41,7 +41,7 @@ I’ve spent years freelancing — solving real-world problems across startups a
 ### 🌐 Connect
 
 📧 [fr1ncis.j1mes54@gmail.com](mailto:fr1ncis.j1mes54@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/francis-james500/) | 🐦 [Twitter / X](https://x.com/FJekems) | 🌍 [Portfolio (coming soon)](#)
+💼 [LinkedIn](https://www.linkedin.com/in/francis-james500/) | 🐦 [Twitter / X](https://x.com/FJekems) | 🌍 [Portfolio](https://void-b.vercel.app/)
 
 > *“Creating impact through purposeful code.”*
 > — Void-bit
