@@ -1,11 +1,11 @@
-# 👋 Hi, I’m James Francis ( Void-bit )
+# Hi, I’m James Francis ( Void-bit )
 
 A **Flutter Developer** passionate about building reliable, elegant, and production-ready apps.
 I’ve spent years freelancing — solving real-world problems across startups and individuals — and I’m now focused on bringing that experience into a **corporate team environment** where collaboration, clean architecture, and delivery matter.
 
 ---
 
-### 🚀 Core Skills
+### Core Skills
 
 * **Flutter & Dart** (mobile + web + desktop)
 * **Backend Integration:** Firebase, Supabase, Node.js
@@ -16,7 +16,7 @@ I’ve spent years freelancing — solving real-world problems across startups a
 
 ---
 
-### 🧠 What I Build
+### What I Build
 
 | Project          | Description                                                    |
 | ---------------- | -------------------------------------------------------------- |
@@ -29,7 +29,7 @@ I’ve spent years freelancing — solving real-world problems across startups a
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Void-b\&theme=dark\&hide_border=true)](https://git.io/streak-stats)
 
@@ -38,7 +38,7 @@ I’ve spent years freelancing — solving real-world problems across startups a
 
 ---
 
-### 🌐 Connect
+### Connect
 
 📧 [fr1ncis.j1mes54@gmail.com](mailto:fr1ncis.j1mes54@gmail.com)
 💼 [LinkedIn](https://www.linkedin.com/in/francis-james500/) | 🐦 [Twitter / X](https://x.com/FJekems) | 🌍 [Portfolio](https://void-b.vercel.app/)
